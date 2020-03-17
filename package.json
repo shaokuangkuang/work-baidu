@@ -1,0 +1,28 @@
+{
+  "name": "work-baidu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "work.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaokuangkuang/work-baidu.git"
+  },
+  "author": "sk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaokuangkuang/work-baidu/issues"
+  },
+  "homepage": "https://github.com/shaokuangkuang/work-baidu#readme",
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "dependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
